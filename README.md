@@ -1,8 +1,6 @@
 # tAqua
 
-<p align="center">
-  <img src="assets/logo.svg" alt="tAqua Logo" width="250">
-</p>
+<img src="assets/logo.svg" alt="tAqua Logo" height="250" align="right">
 
 **tAqua** is an automated irrigation controller designed to run on a Raspberry Pi.
 
